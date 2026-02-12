@@ -56,6 +56,10 @@ a:hover {
 img {
     border-radius: 5px solid #4CAF50;
     border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
 
 }
 main a [href ="mailto:"] {
